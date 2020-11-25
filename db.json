@@ -1,0 +1,38 @@
+{
+  "ListData": [
+    {
+      "listName": "venkat",
+      "arrayList": [
+        {
+          "id": 1,
+          "name": "task 10"
+        },
+        {
+          "id": 1,
+          "name": "task 5"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "listName": "raju",
+      "arrayList": [
+        {
+          "id": 2,
+          "name": "task 9"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "listName": "feroz",
+      "arrayList": [
+        {
+          "id": 1,
+          "name": "task 17"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
